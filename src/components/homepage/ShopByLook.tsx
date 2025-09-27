@@ -9,7 +9,7 @@ import {
   SparklesIcon,
   ArrowRightIcon,
   XMarkIcon
-} from '@heroicons/react/24/outline';
+} 
 import { Product } from '@/types';
 
 export function ShopByLook() {

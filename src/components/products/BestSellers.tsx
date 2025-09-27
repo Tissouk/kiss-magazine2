@@ -10,8 +10,8 @@ import {
   ChevronLeftIcon,
   ChevronRightIcon,
   ArrowRightIcon
-} from '@heroicons/react/24/outline';
-import { HeartIcon as HeartSolid } from '@heroicons/react/24/solid';
+}
+
 import { Product } from '@/types';
 
 interface BestSellersProps {

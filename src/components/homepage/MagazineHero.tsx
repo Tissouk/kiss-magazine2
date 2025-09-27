@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { ClockIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
+
 import { Article } from '@/types';
 
 interface MagazineHeroProps {
