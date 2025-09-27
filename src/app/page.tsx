@@ -1,6 +1,5 @@
 import { MagazineHero } from '../components/homepage/MagazineHero';
 import { ShopByLook } from '../components/homepage/ShopByLook';
-import { BestSellers } from '../components/products/BestSellers';
 import { CommunityHighlights } from '../components/community/CommunityHighlights';
 import { LoyaltyBanner } from '../components/homepage/LoyaltyBanner';
 
