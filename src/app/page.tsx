@@ -1,8 +1,8 @@
 import Link from 'next/link'
-import { FeaturedProducts } from '@/components/homepage/featured-products'
-import { KoreanBrandsShowcase } from '@/components/homepage/korean-brands-showcase'
-import { CommunityHighlights } from '@/components/homepage/community-highlights'
-import { LoyaltyProgram } from '@/components/homepage/loyalty-program'
+import { FeaturedProducts } from '../components/homepage/featured-products'
+import { KoreanBrandsShowcase } from '../components/homepage/korean-brands-showcase'
+import { CommunityHighlights } from '../components/homepage/community-highlights'
+import { LoyaltyProgram } from '../components/homepage/loyalty-program'
 
 export default function HomePage() {
   return (
