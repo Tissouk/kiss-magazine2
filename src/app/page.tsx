@@ -1,7 +1,4 @@
 import { MagazineHero } from '../components/homepage/MagazineHero';
-import { ShopByLook } from '../components/homepage/ShopByLook';
-import { CommunityHighlights } from '../components/community/CommunityHighlights';
-import { LoyaltyBanner } from '../components/homepage/LoyaltyBanner';
 
 
 export default async function HomePage() {
