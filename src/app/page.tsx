@@ -1,12 +1,6 @@
 import { MagazineHero } from '../components/homepage/MagazineHero';
-import { InfluencerSpotlight } from '../components/homepage/InfluencerSpotlight';
-import { YouTubeFeed } from '../components/homepage/YouTubeFeed';
-import { ProductCarousel } from '../components/products/ProductCarousel';
 import { ShopByLook } from '../components/homepage/ShopByLook';
-import { SeoulStreetStyle } from '../components/homepage/SeoulStreetStyle';
 import { BestSellers } from '../components/products/BestSellers';
-import { KBeautyMustHaves } from '../components/products/KBeautyMustHaves';
-import { InstagramFeed } from '../components/homepage/InstagramFeed';
 import { CommunityHighlights } from '../components/community/CommunityHighlights';
 import { LoyaltyBanner } from '../components/homepage/LoyaltyBanner';
 
