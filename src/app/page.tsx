@@ -1,5 +1,4 @@
 import { MagazineHero } from '../components/homepage/MagazineHero';
-import { ThemeSections } from '../components/homepage/ThemeSections';
 import { InfluencerSpotlight } from '../components/homepage/InfluencerSpotlight';
 import { YouTubeFeed } from '../components/homepage/YouTubeFeed';
 import { ProductCarousel } from '../components/products/ProductCarousel';
